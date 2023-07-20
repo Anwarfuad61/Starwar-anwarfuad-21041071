@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=explosion
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ explosion\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=explosion()
+comment2.params=
+comment2.target=void\ initialiseImage()
+comment3.params=
+comment3.target=void\ act()
+comment3.text=\r\n\ EXPLODE\r\n
+comment4.params=
+comment4.target=void\ explodeOthers()
+comment4.text=\r\n\ Explodes\ all\ intersecting\ object\r\n
+numComments=5
